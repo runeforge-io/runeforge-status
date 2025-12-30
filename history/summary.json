@@ -4,17 +4,19 @@
     "url": "https://runeforge.dev/mods",
     "icon": "https://icons.duckduckgo.com/ip3/runeforge.dev.ico",
     "slug": "runeforge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 394,
-    "timeWeek": 548,
-    "timeMonth": 607,
-    "timeYear": 632,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 633,
+    "timeDay": 497,
+    "timeWeek": 565,
+    "timeMonth": 610,
+    "timeYear": 633,
+    "dailyMinutesDown": {
+      "2025-12-30": 8
+    }
   }
 ]
